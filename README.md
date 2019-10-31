@@ -1,4 +1,4 @@
-# Store theme
+# Store theme!
 Our boilerplate theme to create stores in the VTEX IO platform.
 
 ## Preview
