@@ -1,9 +1,13 @@
 {
   "store.home": {
     "blocks": [
-      "carousel#home"
-      /* You can make references to blocks defined in other files.
-       * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
+       "carousel#home",
+       "flex-layout.row#deals",
+       "shelf#home",
+       "info-card#home",
+       "rich-text#question",
+       "rich-test#link",
+       "newsletter"
     ]
   },
 
