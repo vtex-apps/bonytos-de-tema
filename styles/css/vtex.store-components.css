@@ -100,6 +100,25 @@
     font-size: 40px;
   }
 
+  .infoCardTextContainer--info-card-about-us {
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #E6F1E6;
+    padding: 0px;
+  }
+
+  .infoCardHeadline--info-card-about-us {
+    text-align: center;
+  }
+
+  .infoCardSubhead--info-card-about-us {
+    text-align: center;
+  }
+
+  .infoCardCallActionContainer--info-card-about-us {
+    align-self: center;
+  }
+
   .infoCardContainer--info-card-home .infoCardTextContainer {
     width: 30%;
   }
