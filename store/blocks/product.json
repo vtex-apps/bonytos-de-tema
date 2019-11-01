@@ -72,9 +72,7 @@
       "sku-selector",
       "product-assembly-options",
       "flex-layout.row#buy-button",
-      "availability-subscriber",
-      "shipping-simulator",
-      "share#default"
+      "availability-subscriber"
     ]
   },
 
