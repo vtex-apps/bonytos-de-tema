@@ -17,6 +17,12 @@
   padding: 0px;
 }
 
+.infoCardContainer--info-card-about-us {
+  height: 420px;
+  margin: 0 auto;
+  padding: 0px;
+}
+
 .newsletter {
   background-color: #03054E;
   max-width: 1528px;
@@ -63,8 +69,16 @@
 }
 
 .imageElement--storePrint {
-  max-height: 300px;
+  /* max-height: 300px; */
   margin-bottom: 20px;
+}
+
+.infoCardContainer--info-card-home .infoCardTextContainer {
+  height: 100%;
+}
+
+.infoCardContainer--info-card-home .infoCardImageContainer {
+  height: 100%;
 }
 
 @media only screen and (min-width: 640px) {
@@ -86,6 +100,6 @@
 
   .imageElement--storePrint {
     margin-bottom: 0px;
-    max-height: 600px;
+    /* max-height: 650px; */
   }
 }
