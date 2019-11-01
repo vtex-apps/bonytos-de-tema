@@ -13,11 +13,28 @@
   },
   "header-layout.desktop": {
     "children": [
-      "header-row#1-desktop",
-      "header-row#2-desktop",
-      "header-row#3-desktop",
-      "header-row#4-desktop"
-    ]
+      "header-row#42-desktop"
+    ],
+    "props": {
+      "fullWidth": true
+    }
+  },
+
+  "header-row#42-desktop": {
+    "children": [
+      "drawer",
+      "logo#desktop",
+      "vtex.menu@2.x:menu#category-menu",
+      "header-spacer",
+      "header-spacer",
+      "search-bar",
+      "locale-switcher",
+      "login",
+      "minicart"
+    ],
+    "props": {
+      "fullWidth": true
+    }
   },
 
   "header-row#1-desktop": {

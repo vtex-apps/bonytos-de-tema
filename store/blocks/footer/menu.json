@@ -310,6 +310,21 @@
       }
     }
   },
+  "menu-item#category-maquiagem": {
+    "props": {
+      "id": "menu-item-category-category-maquiagem",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/maquiagem/d",
+        "noFollow": true,
+        "tagTitle": "Maquiagem",
+        "text": "Maquiagem"
+      }
+    }
+  },
 
   "menu-item#shorts": {
     "props": {

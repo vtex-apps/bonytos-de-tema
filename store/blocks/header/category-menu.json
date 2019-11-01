@@ -1,9 +1,9 @@
 {
   "vtex.menu@2.x:menu#category-menu": {
     "children": [
-      "menu-item#category-clothing",
-      "menu-item#category-decoration",
-      "menu-item#custom-sale"
+      "menu-item#category-maquiagem",
+      "menu-item#category-perfumes",
+      "menu-item#category-corpo-e-banho"
     ]
   },
   "menu-item#category-clothing": {
@@ -54,6 +54,51 @@
         "noFollow": true,
         "tagTitle": "Hats",
         "text": "Hats"
+      }
+    }
+  },
+  "menu-item#category-maquiagem": {
+    "props": {
+      "id": "menu-item-category-maquiagem",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/shoes/",
+        "noFollow": true,
+        "tagTitle": "Maquiagem",
+        "text": "Maquiagem"
+      }
+    }
+  },
+  "menu-item#category-perfumes": {
+    "props": {
+      "id": "menu-item-category-perfumes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/shoes/",
+        "noFollow": true,
+        "tagTitle": "Perfumes",
+        "text": "Perfumes"
+      }
+    }
+  },
+  "menu-item#category-corpo-e-banho": {
+    "props": {
+      "id": "menu-item-category-corpo-e-banho",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/apparel---accessories/shoes/",
+        "noFollow": true,
+        "tagTitle": "Corpo e banho",
+        "text": "Corpo e banho"
       }
     }
   },
