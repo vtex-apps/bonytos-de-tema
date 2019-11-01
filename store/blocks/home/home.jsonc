@@ -53,7 +53,7 @@
       "isOneClickBuy": true,
       "showBadge": true,
       "badgeText": "OFF",
-      "buyButtonText": "Add to cart",
+      "buyButtonText": "Add to avocart 🥑",
       "displayBuyButton": "displayButtonHover",
       "showCollections": false,
       "showListPrice": true,

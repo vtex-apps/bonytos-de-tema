@@ -4,9 +4,15 @@
       "flex-layout.row#product-breadcrumb",
       "flex-layout.row#product-main",
       "shelf.relatedProducts",
+      "product-description",
       "product-reviews",
       "product-questions-and-answers"
     ]
+  },
+  "product-description": {
+    "props": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam consequat, dolor vel gravida placerat, nisi justo varius arcu, in scelerisque nisi risus non nibh. Ut suscipit nunc eu dui placerat convallis. Sed accumsan ultricies enim non facilisis. Donec nec pulvinar dolor. Etiam sollicitudin varius cursus. Pellentesque dignissim neque eu nisi finibus venenatis. Nunc ac CLEITON eget lacus scelerisque hendrerit nec sed lectus. Fusce feugiat tincidunt auctor. In dictum sapien pulvinar felis viverra malesuada. Etiam feugiat lobortis maximus. Sed augue lacus, euismod at arcu a, scelerisque vulputate erat. Pellentesque justo ipsum, auctor in arcu eu, ornare ullamcorper elit. Donec sed nisi semper ligula cursus pellentesque ac non lacus. Etiam semper quam vehicula, posuere nunc nec, vehicula eros."
+    }
   },
   "flex-layout.row#product-breadcrumb": {
     "props": {
