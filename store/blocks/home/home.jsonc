@@ -15,11 +15,11 @@
       "banners": [
         {
           "image": "https://www.onegreenplanet.org/wp-content/uploads/2018/12/shutterstock_1428218030-1200x800.jpg",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "mobileImage": "https://i.imgur.com/Xbj6T5t.png"
         },
         {
           "image": "https://morethanglam.com/wp-content/uploads/2016/05/Alternative-skin-care-and-scrub-fresh-avocado-leaves-sea-salt-oils-lime-and-honey-on-marble-background.jpg",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "mobileImage": "https://i.imgur.com/Xbj6T5t.png"
         }
       ],
       "height": 550,
@@ -72,7 +72,7 @@
       "id": "info-card-home",
       "isFullModeStyle": false,
       "textPosition": "left",
-      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+      "imageUrl": "https://i.imgur.com/Xbj6T5t.png",
       "headline": "Clearance Sale",
       "callToActionText": "DISCOVER",
       "callToActionUrl": "/sale/d",
