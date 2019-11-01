@@ -78,10 +78,9 @@
 
   "product-price#product-details": {
     "props": {
-      "showInstallments": false,
+      "showInstallments": true,
       "showSavings": false,
-      "showListPrice": true,
-      "labelSellingPrice": true
+      "showListPrice": true
     }
   },
 
