@@ -78,8 +78,11 @@
 
   "product-price#product-details": {
     "props": {
-      "showInstallments": true,
-      "showSavings": true
+      "showInstallments": false,
+      "showSavings": false,
+      "showListPrice": true,
+      "labelSellingPrice": true,
+      
     }
   },
 
@@ -89,16 +92,5 @@
       "marginBottom": 7
     },
     "children": ["buy-button"]
-  },
-
-  "share#default": {
-    "props": {
-      "social": {
-        "Facebook": true,
-        "WhatsApp": true,
-        "Twitter": false,
-        "Pinterest": true
-      }
-    }
   }
 }
