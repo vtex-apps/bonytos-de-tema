@@ -4,8 +4,7 @@
        "carousel#home",
        "shelf#home",
        "info-card#home",
-       "rich-text#question",
-       "rich-text#link"
+       "rich-text#question"
     ]
   },
 
@@ -87,15 +86,8 @@
 
   "rich-text#question": {
     "props": {
-      "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
+      "text": "**This is the best example store built using the VTEX platform.\nWe are the \"Bonytos de Tema\" team in the Hackatheme.\nPlease rate us.**",
       "blockClass": "question"
-    }
-  },
-
-  "rich-text#link": {
-    "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
-      "blockClass": "link"
     }
   }
 }
