@@ -150,12 +150,57 @@
 
   "menu#drawer": {
     "children": [
-      "menu-item#category-clothing",
-      "menu-item#category-decoration",
-      "menu-item#custom-sale"
+      "menu-item#category-maquiagem",
+      "menu-item#category-perfumes",
+      "menu-item#category-cabelo"
     ],
     "props": {
       "orientation": "vertical"
+    }
+  },
+  "menu-item#category-maquiagem": {
+    "props": {
+      "id": "menu-item-category-maquiagem",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/makeup/",
+        "noFollow": true,
+        "tagTitle": "Maquiagem",
+        "text": "Maquiagem"
+      }
+    }
+  },
+  "menu-item#category-perfumes": {
+    "props": {
+      "id": "menu-item-category-perfumes",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/perfume/",
+        "noFollow": true,
+        "tagTitle": "Perfumes",
+        "text": "Perfumes"
+      }
+    }
+  },
+  "menu-item#category-cabelo": {
+    "props": {
+      "id": "menu-item-hair",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/hair/",
+        "noFollow": true,
+        "tagTitle": "Cabelo",
+        "text": "Cabelo"
+      }
     }
   },
 
