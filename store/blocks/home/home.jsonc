@@ -2,7 +2,6 @@
   "store.home": {
     "blocks": [
        "carousel#home",
-       "flex-layout.row#deals",
        "shelf#home",
        "info-card#home",
        "rich-text#question",
@@ -15,15 +14,15 @@
       "autoplay": false,
       "banners": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-principal.png",
+          "image": "https://www.onegreenplanet.org/wp-content/uploads/2018/12/shutterstock_1428218030-1200x800.jpg",
           "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
         },
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
+          "image": "https://morethanglam.com/wp-content/uploads/2016/05/Alternative-skin-care-and-scrub-fresh-avocado-leaves-sea-salt-oils-lime-and-honey-on-marble-background.jpg",
           "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
         }
       ],
-      "height": 720,
+      "height": 550,
       "showArrows": true,
       "showDots": true
     }
@@ -33,6 +32,7 @@
     "blocks": ["product-summary.shelf"],
     "props": {
       "orderBy": "OrderByBestDiscountDESC",
+      "collection": 138,
       "paginationDotsVisibility": "visible",
       "productList": {
         "maxItems": 4,
@@ -40,7 +40,7 @@
         "minItemsPerPage": 1.5,
         "scroll": "BY_PAGE",
         "arrows": true,
-        "titleText": "Best sellers"
+        "titleText": "Natural beauty"
       }
     }
   },
