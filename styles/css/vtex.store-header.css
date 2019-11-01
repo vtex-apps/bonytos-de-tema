@@ -16,3 +16,8 @@
   padding: 10px 0px;
   background-color: #F0F0F0;
 }
+
+.headerRow--main-header-search-mobile .headerRowBackground {
+  padding: 0px 0px;
+  background-color: #F0F0F0;
+}
