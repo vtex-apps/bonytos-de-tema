@@ -35,7 +35,7 @@
       "orderBy": "OrderByBestDiscountDESC",
       "paginationDotsVisibility": "visible",
       "productList": {
-        "maxItems": 3,
+        "maxItems": 4,
         "itemsPerPage": 4,
         "minItemsPerPage": 1.5,
         "scroll": "BY_PAGE",
