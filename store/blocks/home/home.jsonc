@@ -33,26 +33,26 @@
   "shelf#home": {
     "blocks": ["product-summary.shelf"],
     "props": {
-      "orderBy": "OrderByTopSaleDESC",
-      "paginationDotsVisibility": "desktopOnly",
+      "orderBy": "OrderByBestDiscountDESC",
+      "paginationDotsVisibility": "visible",
       "productList": {
         "maxItems": 3,
-        "itemsPerPage": 5,
+        "itemsPerPage": 4,
         "minItemsPerPage": 1.5,
         "scroll": "BY_PAGE",
         "arrows": true,
-        "titleText": "Top sellers"
+        "titleText": "Best sellers"
       }
     }
   },
 
   "product-summary#home": {
     "props": {
-      "isOneClickBuy": false,
+      "isOneClickBuy": true,
       "showBadge": true,
       "badgeText": "OFF",
       "buyButtonText": "Add to cart",
-      "displayBuyButton": "displayButtonAlways",
+      "displayBuyButton": "displayButtonHover",
       "showCollections": false,
       "showListPrice": true,
       "labelSellingPrice": "To",
