@@ -4,6 +4,7 @@
        "carousel#home",
        "shelf#home",
        "info-card#home",
+       "rich-text#info-card-headline",
        "rich-text#question",
        "rich-text#link"
     ]
@@ -14,12 +15,21 @@
       "autoplay": false,
       "banners": [
         {
+          "image": "https://i.imgur.com/iBnFjgI.jpg",
+          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+        },
+        {
           "image": "https://www.onegreenplanet.org/wp-content/uploads/2018/12/shutterstock_1428218030-1200x800.jpg",
           "mobileImage": "https://i.imgur.com/Xbj6T5t.png"
         },
         {
+<<<<<<< Updated upstream
           "image": "https://morethanglam.com/wp-content/uploads/2016/05/Alternative-skin-care-and-scrub-fresh-avocado-leaves-sea-salt-oils-lime-and-honey-on-marble-background.jpg",
           "mobileImage": "https://i.imgur.com/Xbj6T5t.png"
+=======
+          "image": "https://i.imgur.com/yW173iW.jpg",
+          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+>>>>>>> Stashed changes
         }
       ],
       "height": 550,
@@ -67,13 +77,26 @@
     }
   },
 
+  "rich-text#info-card-headline": {
+    "props": {
+      "text": "**Avocado beauty**",
+      "blockClass": "info-card-headline"
+    }
+  },
+
   "info-card#home": {
     "props": {
       "id": "info-card-home",
       "isFullModeStyle": false,
+<<<<<<< Updated upstream
       "textPosition": "left",
       "imageUrl": "https://i.imgur.com/Xbj6T5t.png",
       "headline": "Clearance Sale",
+=======
+      "textPosition": "center",
+      "imageUrl": "https://morethanglam.com/wp-content/uploads/2016/05/Alternative-skin-care-and-scrub-fresh-avocado-leaves-sea-salt-oils-lime-and-honey-on-marble-background.jpg",
+      "headline": "Self-care line focused on natural products",
+>>>>>>> Stashed changes
       "callToActionText": "DISCOVER",
       "callToActionUrl": "/sale/d",
       "blockClass": "info-card-home",
