@@ -8,8 +8,8 @@
   "info-card#about-us": {
     "props": {
       "id": "info-card-about-us",
-      "isFullModeStyle": false,
-      "textPosition": "left",
+      "isFullModeStyle": true,
+      "textPosition": "center",
       "imageUrl": "https://i.imgur.com/20MIGfk.png",
       "headline": "We are a company focused on natural products",
       "subhead": "We belive that natural beauty come allong with organic products. We don't test in animals.",

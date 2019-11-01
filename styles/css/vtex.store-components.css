@@ -18,7 +18,7 @@
 }
 
 .infoCardContainer--info-card-about-us {
-  height: 420px;
+  height: 720px;
   margin: 0 auto;
   padding: 0px;
 }
@@ -73,12 +73,22 @@
   margin-bottom: 20px;
 }
 
-.infoCardContainer--info-card-home .infoCardTextContainer {
-  height: 100%;
+.infoCardTextContainer--info-card-about-us {
+  position: absolute;
+  left: 0;
+  width: 30%;
 }
 
-.infoCardContainer--info-card-home .infoCardImageContainer {
-  height: 100%;
+.infoCardHeadline--info-card-about-us {
+  text-align: left;
+}
+
+.infoCardSubhead--info-card-about-us {
+  text-align: left;
+}
+
+.infoCardCallActionContainer--info-card-about-us {
+  align-self: flex-start;
 }
 
 @media only screen and (min-width: 640px) {
