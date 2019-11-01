@@ -3,7 +3,8 @@
     "children": [
       "menu-item#category-maquiagem",
       "menu-item#category-perfumes",
-      "menu-item#category-cabelo"
+      "menu-item#category-cabelo",
+      "menu-item#about-us"
     ]
   },
   "menu-item#category-clothing": {
@@ -99,6 +100,21 @@
         "noFollow": true,
         "tagTitle": "Cabelo",
         "text": "Cabelo"
+      }
+    }
+  },
+  "menu-item#about-us": {
+    "props": {
+      "id": "menu-item-about-us",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/about-us",
+        "noFollow": true,
+        "tagTitle": "About us",
+        "text": "About us"
       }
     }
   },
