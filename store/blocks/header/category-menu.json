@@ -3,7 +3,7 @@
     "children": [
       "menu-item#category-maquiagem",
       "menu-item#category-perfumes",
-      "menu-item#category-corpo-e-banho"
+      "menu-item#category-cabelo"
     ]
   },
   "menu-item#category-clothing": {
@@ -65,7 +65,7 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/apparel---accessories/shoes/",
+        "href": "/makeup/",
         "noFollow": true,
         "tagTitle": "Maquiagem",
         "text": "Maquiagem"
@@ -80,25 +80,25 @@
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/apparel---accessories/shoes/",
+        "href": "/perfume/",
         "noFollow": true,
         "tagTitle": "Perfumes",
         "text": "Perfumes"
       }
     }
   },
-  "menu-item#category-corpo-e-banho": {
+  "menu-item#category-cabelo": {
     "props": {
-      "id": "menu-item-category-corpo-e-banho",
+      "id": "menu-item-hair",
       "type": "custom",
       "iconId": null,
       "highlight": false,
       "itemProps": {
         "type": "internal",
-        "href": "/apparel---accessories/shoes/",
+        "href": "/hair/",
         "noFollow": true,
-        "tagTitle": "Corpo e banho",
-        "text": "Corpo e banho"
+        "tagTitle": "Cabelo",
+        "text": "Cabelo"
       }
     }
   },
