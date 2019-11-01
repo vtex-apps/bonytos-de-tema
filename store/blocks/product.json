@@ -81,8 +81,7 @@
       "showInstallments": false,
       "showSavings": false,
       "showListPrice": true,
-      "labelSellingPrice": true,
-      
+      "labelSellingPrice": true
     }
   },
 
